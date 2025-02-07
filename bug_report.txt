@@ -1,1 +1,28 @@
+ID: BUG-001
 
+Title: " "
+
+Priority: "Medium"
+
+Precondition: " "
+
+Description: " "
+
+Steps to Reproduce:
+1)
+2)
+3)
+
+Actual Result: " "
+
+Expected Result: " "
+
+
+Environment:
+Device: " "
+OS: " "
+Browser: " "
+
+Attachments:
+📸 Screenshot
+🎥 Video
