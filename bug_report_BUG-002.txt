@@ -1,0 +1,28 @@
+ID: BUG-002
+
+Title: " "
+
+Priority: "Low"
+
+Precondition: " "
+
+Description: " "
+
+Steps to Reproduce:
+1)
+2)
+3)
+
+Actual Result: " "
+
+Expected Result: " "
+
+
+Environment:
+Device: " "
+OS: " "
+Browser: " "
+
+Attachments:
+📸 Screenshot
+🎥 Video
